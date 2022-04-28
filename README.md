@@ -175,7 +175,7 @@ https://github.com/badafans/better-cloudflare-ip
                         "port": 443,
                         "users": [
                             {
-                                "id": "", // 填写你的 UUID
+                                "id": "8b903048-621e-4db3-9a46-5ff68bf12188", // 填写你的 UUID
                                 "encryption": "none"
                             }
                         ]
